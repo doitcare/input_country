@@ -63,6 +63,7 @@ CV,CPV,132,Cabo Verde,CVE,,238,-1,Kap Verde,Cabo Verde
 CW,CUW,531,Curaçao,ANG,nl,5999,-4,,
 CX,CXR,162,Christmas Island,AUD,en,6189164,7,,
 CY,CYP,196,Cyprus,EUR,en,357,2,Zypern,Chipre
+CT,CYT,197,Turkish Republic of Northern Cyprus,TRY,tr,90,2,Türkische Republik Nordzypern,República Turca del Norte de Chipre
 CZ,CZE,203,Czechia,CZK,cs,420,1,Tschechien,República Checa
 DE,DEU,276,Germany,EUR,de,49,1,Deutschland,Alemania
 DJ,DJI,262,Djibouti,DJF,fr,253,2,Dschibuti,Yibuti
