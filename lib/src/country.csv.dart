@@ -63,7 +63,6 @@ CV,CPV,132,Cabo Verde,CVE,,238,-1,Kap Verde,Cabo Verde
 CW,CUW,531,Curaçao,ANG,nl,5999,-4,,
 CX,CXR,162,Christmas Island,AUD,en,6189164,7,,
 CY,CYP,196,Cyprus,EUR,en,357,2,Zypern,Chipre
-CT,CYT,197,Turkish Republic of Northern Cyprus,TRY,tr,90,2,Türkische Republik Nordzypern,República Turca del Norte de Chipre
 CZ,CZE,203,Czechia,CZK,cs,420,1,Tschechien,República Checa
 DE,DEU,276,Germany,EUR,de,49,1,Deutschland,Alemania
 DJ,DJI,262,Djibouti,DJF,fr,253,2,Dschibuti,Yibuti
@@ -234,6 +233,7 @@ TM,TKM,795,Turkmenistan,TMT,tk,993,5,Turkmenistan,Turkmenistán
 TN,TUN,788,Tunisia,TND,fr,216,1,Tunesien,Túnez
 TO,TON,776,Tonga,TOP,en,676,13,Tonga,Tonga
 TR,TUR,792,Turkey,TRY,tr,90,3,Türkei,Turquía
+CT,CYT,197,Turkish Republic of Northern Cyprus,TRY,tr,90,2,Türkische Republik Nordzypern,República Turca del Norte de Chipre
 TT,TTO,780,Trinidad & Tobago,TTD,es,1868,-4,Trinidad & Tobago,Trinidad y Tobago
 TV,TUV,798,Tuvalu,AUD,en,688,12,Tuvalu,Tuvalu
 TW,TWN,158,Taiwan,TWD,zh,886,8,Taiwan,
